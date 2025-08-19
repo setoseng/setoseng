@@ -35,7 +35,7 @@ I’m a **Software Engineer** specializing in **full-stack web development**. I 
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=setoseng&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=setoseng&theme=algolia&no-frame=true&row=1&column=6" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setoseng&layout=compact&theme=radical" height="165" />
 </p>
 
